@@ -1,4 +1,4 @@
-### Sou o Luiz Cunha
+### Sou o Luiz Cunha :wave:
 
 ##
 
@@ -18,3 +18,4 @@
 </div>
 
 ##
+
