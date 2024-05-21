@@ -1,4 +1,4 @@
-### Hi, I'm Luiz Cunha!:
+### Hi, I'm Luiz Cunha!
 
 ##
 
