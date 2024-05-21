@@ -1,4 +1,4 @@
-### Sou o Luiz Cunha :wave:
+### Hi, I'm Luiz Cunha!:
 
 ##
 
