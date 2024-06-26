@@ -56,8 +56,8 @@ Atualmente, estou focado em desenvolvimento web, principalmente no Front-end com
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scss" height="40" alt="scss logo" />
-      <br>SCSS
+      <img src="https://skillicons.dev/icons?i=scss" height="40" alt="sass logo" />
+      <br>SASS
     </td>
   </tr>
   <tr>
