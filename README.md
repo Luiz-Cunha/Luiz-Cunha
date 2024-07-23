@@ -48,6 +48,14 @@ Atualmente, estou focado em desenvolvimento web, principalmente no Front-end com
       <br>Bootstrap
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
       <br>HTML5
     </td>
