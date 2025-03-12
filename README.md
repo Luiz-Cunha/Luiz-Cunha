@@ -1,6 +1,6 @@
-<h1 align="left">Luiz Eduardo dos Santos Cunha</h1>
+<h1 align="left">Xiaowenji</h1>
 
-Olá, eu sou o Luiz Cunha, estudante de Ciência da Computação na Universidade Federal Fluminense. Ao longo da minha jornada, tenho aprimorado minhas habilidades em comunicação, colaboração e, claro, programação.
+Olá, eu sou o xiaowenji, bacharel em Ciência da Computação na Universidade Federal Fluminense. Ao longo da minha jornada, tenho aprimorado minhas habilidades em comunicação, colaboração e, claro, programação.
 
 Estou sempre de olho nas últimas tendências, participando de bootcamps, fazendo cursos online e desenvolvendo projetos para aprender mais.
 
